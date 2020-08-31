@@ -1,3 +1,3 @@
 def concat(array,narray)
-  array.concat(narray)
+  barray = array.concat(narray)
 end
