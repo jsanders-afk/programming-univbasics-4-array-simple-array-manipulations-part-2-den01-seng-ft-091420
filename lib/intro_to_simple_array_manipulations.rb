@@ -2,11 +2,13 @@ def using_concat(array,narray)
   array.concat(narray)
 end
 
-def using_insert
+def using_insert()
 end
 
-def
+def using_uniq()
+end
 
+def 
 
 
 
